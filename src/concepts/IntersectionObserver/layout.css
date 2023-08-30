@@ -1,0 +1,18 @@
+.container {
+    position: fixed;
+    top: 0;
+    background: grey;
+    padding: 20px;
+    width: 30%;
+    height: 20px;
+    overflow-y: scroll;
+    text-align: center;
+}
+
+.box {
+    position: relative;
+    top: 1200px;
+    width: 200px;
+    height: 200px;
+    background: red;
+}
